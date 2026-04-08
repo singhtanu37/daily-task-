@@ -18,4 +18,4 @@ A simple web app to add, complete, and delete tasks with persistent storage.
 2. Open index.html in browser
 
 ## Live Demo
-https://your-username.github.io/daily-task-tracker/
+https://singhtanu37.github.io/daily-task-/
